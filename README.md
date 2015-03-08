@@ -4,6 +4,8 @@
 
 # সফটওয়্যার আর্কিটেকচার - বাংলা
 
+[![Join the chat at https://gitter.im/howtocode-com-bd/architecture.howtocode.com.bd](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/howtocode-com-bd/architecture.howtocode.com.bd?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### [এস এম ফরহাদ আলী](http://logicalforhad.wordpress.com/)
 
 #### সংক্ষেপ
